@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_bckgrnd2.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_bckgrnd2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_dwnarw.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_dwnarw.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_mesg2.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_mesg2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_fcb.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_fcb.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_xcancel.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_xcancel.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_google.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_google.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_birdb.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_birdb.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_emailimage.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_emailimage.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_journal.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_journal.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_bstar.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_bstar.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ebird.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ebird.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_caldr.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_caldr.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_cancl.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_cancl.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_gallerybackground.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_gallerybackground.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_whatsapp.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_whatsapp.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_drawerimg.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_drawerimg.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_round.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_skype.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_skype.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_blackbook.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_blackbook.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_b.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_b.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_happyemoj.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_happyemoj.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_lst.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_lst.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ahlh.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ahlh.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_subscription.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_subscription.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_cont.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_cont.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_outbutton.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_outbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_s.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_s.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_dell.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_dell.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ntpd.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ntpd.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_lg.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_lg.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ntf.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ntf.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_sademoj.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_sademoj.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_v.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_v.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_docv.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_docv.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_e.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_e.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_sms.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_sms.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ios.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ios.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_drawerchek.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_drawerchek.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_blackddg.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_blackddg.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_correct.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_correct.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_lessthan.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_lessthan.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_k.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_k.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_sparrow.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_sparrow.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pen.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pen.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_dot.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_dot.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_hide.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_gallery.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_qa.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_qa.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_divideline.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_divideline.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ripimage.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ripimage.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_book.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_book.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_back.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_d.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_d.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_eyehide.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_eyehide.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_paperfold.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_paperfold.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_chatsms.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_chatsms.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_eyeicon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_eyeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_blackpen.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_blackpen.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_c.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_c.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_drawerstar.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_drawerstar.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_srch.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_srch.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_newcircle.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_newcircle.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_group.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_group.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_i.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_i.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_fcb2.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_fcb2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_invite.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_invite.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_f.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_f.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_facebook.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_call.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_call.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_a.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_a.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_mesg.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_mesg.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ios2.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ios2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_help.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_help.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_ddg.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_ddg.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_blackntpd.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_blackntpd.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_drawercheck.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_drawercheck.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pencil.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pencil.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_google2.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_google2.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\meditative\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\DELL\\meditative\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    }
+]
